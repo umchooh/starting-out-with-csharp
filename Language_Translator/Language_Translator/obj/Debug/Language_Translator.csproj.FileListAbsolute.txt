@@ -1,0 +1,10 @@
+C:\Users\Choo\source\repos\Language_Translator\Language_Translator\bin\Debug\Language_Translator.exe.config
+C:\Users\Choo\source\repos\Language_Translator\Language_Translator\bin\Debug\Language_Translator.exe
+C:\Users\Choo\source\repos\Language_Translator\Language_Translator\bin\Debug\Language_Translator.pdb
+C:\Users\Choo\source\repos\Language_Translator\Language_Translator\obj\Debug\Language_Translator.csproj.AssemblyReference.cache
+C:\Users\Choo\source\repos\Language_Translator\Language_Translator\obj\Debug\Language_Translator.languageTranslatorForm.resources
+C:\Users\Choo\source\repos\Language_Translator\Language_Translator\obj\Debug\Language_Translator.Properties.Resources.resources
+C:\Users\Choo\source\repos\Language_Translator\Language_Translator\obj\Debug\Language_Translator.csproj.GenerateResource.cache
+C:\Users\Choo\source\repos\Language_Translator\Language_Translator\obj\Debug\Language_Translator.csproj.CoreCompileInputs.cache
+C:\Users\Choo\source\repos\Language_Translator\Language_Translator\obj\Debug\Language_Translator.exe
+C:\Users\Choo\source\repos\Language_Translator\Language_Translator\obj\Debug\Language_Translator.pdb
